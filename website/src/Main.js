@@ -1,4 +1,4 @@
-const Main_file = () => {
+const MainFile = () => {
 
     const Country = "Nigeria";
     
@@ -28,4 +28,4 @@ const Main_file = () => {
     )
 }
 
-export default Main_file;
+export default MainFile;

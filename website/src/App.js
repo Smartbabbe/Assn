@@ -1,11 +1,11 @@
-import Main_file from './Main';
+import MainFile from './Main';
 import Intro from './Header';
 
 function App() {
   return (
     <div>
       <Intro></Intro>
-      <Main_file></Main_file>
+      <MainFile></MainFile>
     </div>
     
   );
